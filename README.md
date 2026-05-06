@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 ```javascript
-const eijaz = {
+const Moosa = {
     location: "🌍 Karachi, Pakistan",
     currentRole: "Frontend Developer (React.js + React Native)",
     education: "Sindh Madrassatul Islam University",

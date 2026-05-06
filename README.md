@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EIjaz%20Jalil&fontSize=42&fontAlignY=32&desc=Frontend%20Developer%20(React.js%20%2B%20React%20Native)%20|%20Mobile%20App%20Specialist%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eijaz%20Jalil&fontSize=42&fontAlignY=32&desc=Frontend%20Developer%20(React.js%20%2B%20React%20Native)%20|%20Mobile%20App%20Specialist%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 ```javascript
-const EIjaz = {
+const Eijaz = {
     location: "🌍 Karachi, Pakistan",
     currentRole: "Frontend Developer (React.js + React Native)",
     education: "Sindh Madrassatul Islam University",
